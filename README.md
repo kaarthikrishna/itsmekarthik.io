@@ -1,0 +1,2 @@
+# kaarthikrishna.github.io
+this is my first personal website. It took me around one month to complete this project!!(I know it's a bit long time) but I enjoyed the journey very well. Of course I referred many articles videos and websites for building this web and I learned a lot from them. After so many sleepless nights, fixing bugs and changing designs, finally I hosted my website on GitHub. Please Take a look at my website . Your valuable suggestions are highly appreciated :)
