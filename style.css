@@ -1184,9 +1184,7 @@ img{
     }
 }
 @media (min-width:1200px){
-    html{
-    zoom: 80%;
-    }
+ 
     .nav{
         height: 4rem;
         column-gap: 30rem;
